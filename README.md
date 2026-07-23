@@ -26,7 +26,43 @@ This project consolidates sales, profitability, customer, regional, and product 
 
 # Dashboard Preview
 
-*(Dashboard screenshots will be added here.)*
+## Executive Dashboard
+
+<p align="center">
+  <img src="Images/Executive-Dashboard.png" width="1000">
+</p>
+
+---
+
+## Product Performance Analysis
+
+<p align="center">
+  <img src="Images/Product-Performance-Analysis.png" width="1000">
+</p>
+
+---
+
+## Customer Behavior Analysis
+
+<p align="center">
+  <img src="Images/Customer-Behavior-Analysis.png" width="1000">
+</p>
+
+---
+
+## Regional Performance Analysis
+
+<p align="center">
+  <img src="Images/Regional-Performance-Analysis.png" width="1000">
+</p>
+
+---
+
+## Strategic Business Recommendations
+
+<p align="center">
+  <img src="Images/Strategic-Business-Recommendations.png" width="1000">
+</p>
 
 ---
 
@@ -43,7 +79,9 @@ The report is built using a dimensional data model consisting of:
 
 The model follows a star schema approach with a normalized Product hierarchy for efficient filtering and analytical performance.
 
-*(Data model image will be inserted here.)*
+<p align="center">
+  <img src="Images/Data-Model.png" width="1000">
+</p>
 
 ---
 
