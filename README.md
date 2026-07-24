@@ -111,7 +111,7 @@ The dataset contains transactions only through **2022**, while the Calendar dime
 - Data cleansing
 - Data type optimization
 - Normalization of Product Dimension
-- Used DAX to derive Calendar Dimension Table
+- Deerived Calendar Dimension Table
 
 ## Data Modeling
 
@@ -161,7 +161,6 @@ Examples include:
 - DAX
 - Power Query
 - Data Modeling
-- Microsoft Excel
 
 ---
 
@@ -185,7 +184,7 @@ Examples include:
 
 - Power BI Report (.pbix)
 - Portfolio PDF
-- Dashboard PDF
+- Adventure-Works-Business-Analysis-Dashboard PDF
 - Dashboard Images
 
 ---
